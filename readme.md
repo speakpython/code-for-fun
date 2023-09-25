@@ -1,19 +1,3 @@
----
-layout: post
-heading: Birthday Guessing Game
-keywords: ['birthday-guess', 'guessing', 'pattern design']
-author_id: 'dev3058'
-credits: ['yongdaniel-liang']
-level: 2
-published: true
----
-
-Imagine a code-breaking adventure where you can determine someone's birthdate with just a series of simple questions and Python's power. In this blog post, we'll unveil the secrets of a Python program that uses binary encoding to decipher birthdays. 
-
-Let's embark on this digital journey and learn how to perform some Python sorcery!
-
-!['case-converter'](../../../image/birthday.jpg)
-
 ## Simple Steps 🎂 
 
 We are unveiling the secrets of a Python program that uses binary encoding to decipher birthdays, the code snippet you see below does just that. 
@@ -144,15 +128,9 @@ This binary representation ingeniously ensures that every day of the month has a
 ##### Step 4: The Grand Revelation
 - After the fifth question, the program performs a binary calculation to decode the birthdate's day of the month. The result is displayed in decimal form, unveiling the birthdate with precision. It's like solving a digital puzzle!
 
-<br/>
 
+<hr>
 
-### Example testing
-Suppose my birtdhay is on 1st Date.
+>Explore the complete article at: https://speakpython.codes/code-for-fun/2023/09/25/birthday-guessing-game.html
 
-!['example-testing-hex-to-decimal'](../../../image/test.jpg)
-
-### Conclusion
-What you've seen here is not just a mere guessing game; it's a captivating showcase of binary decoding and logical deduction. By utilizing binary representations and simple questions, this Python program can accurately unveil any day of the month in a matter of moments. 
-
-It's a testament to the versatility of Python and how it can transform complex tasks into straightforward solutions. So, the next time you want to impress your friends or colleagues, consider using this Python-powered binary guessing game to reveal their birthdays with flair!
+<hr>
